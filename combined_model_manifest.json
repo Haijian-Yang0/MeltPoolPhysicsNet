@@ -1,0 +1,36 @@
+{
+  "feature_cols": [
+    "Power",
+    "Velocity",
+    "Density",
+    "Heat of Fusion",
+    "Heat of Vaporization ",
+    "Linear Expansion Coefficient ",
+    "Specific Heat Capacity",
+    "Thermal Conductivity",
+    "Melting Point",
+    "Boiling Point",
+    "Reflection Coefficient ",
+    "normalized enthalpy",
+    "Energy_Density"
+  ],
+  "log_targets": [
+    "width",
+    "Depth"
+  ],
+  "targets": [
+    "width",
+    "Depth",
+    "Aspect ratio"
+  ],
+  "scaler_y_mean": [
+    5.074501608630634,
+    4.724768520948939,
+    0.9588147140405608
+  ],
+  "scaler_y_scale": [
+    0.5808243208320292,
+    1.2213609288762415,
+    0.8081619320766478
+  ]
+}
